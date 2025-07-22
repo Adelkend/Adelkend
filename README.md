@@ -4,7 +4,6 @@
 [![scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=0kKD6YEAAAAJ&hl=pt-BR)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white&labelColor=1f1f18)](https://www.researchgate.net/profile/Eduardo-Jaqueira?ev=hdr_xprf)
 [![email](https://img.shields.io/badge/email-EA4335?&logo=gmail&logoColor=white)](mailto:eduardo.jaqueira@usp.br)
-![visitors](https://komarev.com/ghpvc/?username=adelkend&color=blueviolet)
 
 I'm an Electronics Engineer student at USP, with a special interest towards AI and ML algorithms. I have currently published 2 papers on the ML field, which can be found in here under [Synthetic ECG Generation](https://github.com/Adelkend/Synthetic-ECG-Generation) and [SRNN](https://github.com/Adelkend/SRRNN). Both works have been published and accepted at the brazilian national symposium for signal processing (SBrT23/24), with the second one being commended the best undergraduate paper award on that year for signal processing. Working towards engaging in my Masters in 2026!
 
