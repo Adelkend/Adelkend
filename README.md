@@ -7,7 +7,7 @@
 
 I'm an Electronics Engineer student at USP, with a special interest towards AI and ML algorithms. I have currently published 2 papers on the ML field, which can be found in here under [Synthetic ECG Generation](https://github.com/Adelkend/Synthetic-ECG-Generation) and [SRNN](https://github.com/Adelkend/SRRNN). Both works have been published and accepted at the brazilian national symposium for signal processing (SBrT23/24), with the second one being commended the best undergraduate paper award on that year for signal processing. Working towards engaging in my Masters in 2026!
 
-I currently work at [Visualiza AI](https://visualiza.ai/) as an Artificial Intelligence developer. My primary focus at this position is to work on Computer Vision algorithms and neural networks, having designed, fine-tuned, and overall trained neural netowkrs for various tasks such as Age and Gender classification, Retail product detection and recognition, Vehicle Axle count for freeway roads, Head-Pose estimation and working on many more.
+I currently work at [Visualiza AI](https://visualiza.ai/) as an Artificial Intelligence developer. My primary focus at this position is to work on Computer Vision algorithms and neural networks, having designed, fine-tuned, and overall trained neural netowkrs for various tasks such as Age and Gender classification, Retail product detection and recognition, Vehicle axle count for freeway roads, Head-Pose estimation and working on many more.
 
 A little more on my background:
   * I started coding when I was 15, by influence of my brother, and our first project was making a little RPG game🎮!
