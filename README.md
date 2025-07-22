@@ -13,6 +13,6 @@ I currently work at [Visualiza AI](https://visualiza.ai/) as an Artificial Intel
 A little more on my background:
   * I started coding when I was 15, by influence of my brother, and our first project was making a little RPG game🎮!
   * During my early years in college I was part of the Rocket Design Team at USP🚀, [Projeto Jupiter](https://www.projetojupiter.com/), as a member of the electronics team.
-  * When I was 18 I joined the Navy School for Superior Officers🎖️, which didn't last long, but it was an interesting experience!
+  * When I was 18 I joined the Navy Academy for Officers🎖️, which didn't last long, but it was an interesting experience!
   * Before commiting to my academic journey I interned at Bank of America Brazil🏦 at the Fixed Income Sales Desk, which was a great learning and challenging enviroment!
   
