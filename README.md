@@ -10,7 +10,7 @@ I'm an Electronics Engineer student at USP, with a special interest towards AI a
 I currently work at [Visualiza AI](https://visualiza.ai/) as an Artificial Intelligence developer. My primary focus at this position is to work on Computer Vision algorithms and neural networks, having designed, fine-tuned, and overall trained neural netowkrs for various tasks such as Age and Gender classification, Retail product detection and recognition, Vehicle axle count for freeway roads, Head-Pose estimation and working on many more.
 
 A little more on my background:
-  * I started coding when I was 15, by influence of my brother, and our first project was making a little RPG game🎮!
+  * I started coding when I was 15, influenced by my older brother, and our first project was making a little RPG game🎮!
   * During my early years in college I was part of the Rocket Design Team at USP🚀, [Projeto Jupiter](https://www.projetojupiter.com/), as a member of the electronics team.
   * When I was 18 I was accepted at the Military Academy for Navy Officers🎖️, which didn't last long, but it was an interesting experience!
   * Before commiting to my academic journey I interned at Bank of America Brazil🏦 at the Fixed Income Sales Desk, which was a great learning and challenging enviroment!
