@@ -9,7 +9,7 @@ I'm an Electronics Engineer student at USP, with a special interest towards AI a
 
 I previously worked at [Visualiza AI](https://visualiza.ai/) as an Artificial Intelligence developer. My primary focus at this position is to work on Computer Vision algorithms and neural networks, having designed, fine-tuned, and overall trained neural netowkrs for various tasks such as Age and Gender classification, Retail product detection and recognition, Vehicle axle count for freeway roads, Head-Pose estimation and working on many more.
 
-Currently working as a Visiting Scholar at [Purdue University].
+Currently working as a Visiting Scholar at Purdue University.
 
 A little more on my background:
   * I started coding when I was 15, influenced by my older brother, and our first project was making a little RPG game🎮!
